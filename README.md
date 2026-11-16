@@ -103,8 +103,6 @@ banking-management-system-sql/
    `roles → permissions → role_permissions → branches → employees → users → customers → accounts → transactions → loans → loan_payments → audit_logs`
 4. Run the query solutions one by one and check the output.
 
-> Note: Some CSV files use `;` (semicolon) as separator. Choose the correct separator while importing.
-> In `Employes.csv`, some phone numbers are in Excel scientific format (e.g. `9.1043E+11`), so they fail the phone-format check (question 27). This is a data-quality issue the query detects.
 
 ---
 
@@ -190,11 +188,11 @@ banking-management-system-sql/
 ## 👩‍💻 Author
 
 **Deepali Sharma**
+
 Aspiring Data Analyst | SQL • Advanced Excel • Power BI • Python
-📍 Ghaziabad, Uttar Pradesh, India
 
-🔗 LinkedIn: [https://www.linkedin.com/in/your-linkedin-deepali-sharma-689731340/](https://www.linkedin.com/in/deepali-sharma-689731340/)
+🔗 LinkedIn: [linkedin.com/in/deepali-sharma-689731340](https://www.linkedin.com/in/deepali-sharma-689731340/)
 
-💻 GitHub: [https://github.com/your-github-sharmadeepali413-cpu](https://github.com/sharmadeepali413-cpu)
+💻 GitHub: [github.com/sharmadeepali413-cpu](https://github.com/sharmadeepali413-cpu)
 
 ⭐ If you like this project, please give it a star!
