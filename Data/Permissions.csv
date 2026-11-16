@@ -1,0 +1,6 @@
+"permission_id";"permission_name";"description"
+1;"Create Account";"Can create new bank accounts"
+2;"Approve Loan";"Can approve loans"
+3;"Deposit Money";"Can deposit money"
+4;"Withdraw Money";"Can withdraw money"
+5;"View Audit";"Can view audit logs"
